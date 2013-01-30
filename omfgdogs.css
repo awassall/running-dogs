@@ -1,3 +1,24 @@
 body {
-	background-image: url('../assets/omfgdogs.gif');
+	background-image:url('assets/omfgdogs.gif');
+}
+
+span {
+	color: white;
+	font-size: 50px;
+	background-color: black;
+	position: absolute;
+	right: 30px;
+	bottom: 30px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+embed {
+	autostart: true;
+	loop: true;
+	width: 0px;
+	height: 0px;
 }
